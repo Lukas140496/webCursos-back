@@ -5,9 +5,11 @@
   "author": "lukasorellana26 <lukas.orellana@dbnetcorp.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon index"
+    "dev": "nodemon index",
+    "start": "node index"
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "express": "^4.18.2"
   },
   "devDependencies": {
