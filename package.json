@@ -1,0 +1,16 @@
+{
+  "name": "web-cursos-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lukasorellana26 <lukas.orellana@dbnetcorp.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
